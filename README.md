@@ -1,5 +1,7 @@
 # E-commerce Delivery Network Optimization
 
+![Network Visualization](results/network_visualization.png)
+
 ## Problem Description
 This project focuses on optimizing delivery routes for an e-commerce company operating in Istanbul. The goal is to minimize delivery time from the main depot to customer locations.
 
@@ -27,10 +29,10 @@ Depot → Atasehir → Sisli → Levent
 Total delivery time: 55 minutes
 
 ## Analysis
-The results show that using Atasehir as an intermediate node significantly reduces delivery time compared to other routes. This demonstrates how network optimization can improve logistics efficiency in urban environments.
+The results show that using Atasehir as an intermediate node significantly reduces delivery time compared to other routes.
 
-## Conclusion
-This project illustrates how graph theory and shortest path algorithms can be applied to real-world logistics problems, particularly in e-commerce delivery systems.
+## Visualization
+The graph above shows the delivery network between different districts in Istanbul, with edge weights representing travel time in minutes.
 
 ## Technologies Used
 - Python
