@@ -1,0 +1,10 @@
+source,target,time
+Depot,Kadikoy,25
+Depot,Atasehir,20
+Kadikoy,Uskudar,10
+Kadikoy,Besiktas,30
+Uskudar,Besiktas,20
+Besiktas,Sisli,15
+Sisli,Levent,10
+Atasehir,Uskudar,15
+Atasehir,Sisli,25
